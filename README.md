@@ -1,8 +1,8 @@
-## PieceOfShit
+# Piece Of Shit
 A semi-advanced Discord bot written in C#.
 
-# How To Use
+## How To Use
 
-# Packages Installed
+## Packages Installed
 0 - Discord.
 1 - Newtonsoft.Json
